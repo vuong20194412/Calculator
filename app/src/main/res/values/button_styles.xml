@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button" parent="@android:style/Widget.Material.Light.Button">
+        <item name="android:layout_margin">2dp</item>
+    </style>
+</resources>
